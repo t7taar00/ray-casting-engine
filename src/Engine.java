@@ -123,7 +123,7 @@ public class Engine extends Application
         surfaceTexture = new Texture();
         
         gameScene.setCursor(Cursor.CROSSHAIR);
-        gameStage.setTitle("StarEngine");
+        gameStage.setTitle("Ray Casting Engine");
         gameStage.setScene(gameScene);
         gameStage.setFullScreen(false);
         gameStage.setResizable(true);
